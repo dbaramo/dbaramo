@@ -18,6 +18,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/postman.svg" alt="postman" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height="40" style="vertical-align:top; margin:4px">
 </p>
 <!---
 dbaramo/dbaramo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
